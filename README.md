@@ -13,7 +13,7 @@
 - 📚 Egresado de la carrera de Ingeniería de Computación y Sistemas
 - 🌱 Estoy aprendiendo .Net
 - 💻 Busco oportunidades laborales para aplicar mi pasión por la tecnología
-- 💬 Pregúntame sobre **Diseño web, Lanchain, Sistemas Raf**
+- 💬 Pregúntame sobre **Diseño web, Lanchain, Sistemas RAG**
 - 📫 Cómo contactarme **fstorres2003@gmail.com**
 - 📄 Conoce mis experiencias <a href="https://github.com/Franco-Salvador/Me.io/blob/master/01FrancoSalvadorCV.pdf" target="blank">Curriculum vitae</a>
 
